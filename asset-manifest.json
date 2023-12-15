@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/searchformusic/static/css/main.84e7f567.css",
+    "main.js": "/searchformusic/static/js/main.075f53dd.js",
+    "static/media/bg.jpg": "/searchformusic/static/media/bg.ac39d7b7df38753c7bdf.jpg",
+    "static/media/SearchForMusic1.png": "/searchformusic/static/media/SearchForMusic1.2c80f8721f030c9829df.png",
+    "static/media/backfinger1.png": "/searchformusic/static/media/backfinger1.3bc5e6d129ce4355fc19.png",
+    "static/media/magniglass1.png": "/searchformusic/static/media/magniglass1.03b2c84ca8aac615cff7.png",
+    "index.html": "/searchformusic/index.html",
+    "main.84e7f567.css.map": "/searchformusic/static/css/main.84e7f567.css.map",
+    "main.075f53dd.js.map": "/searchformusic/static/js/main.075f53dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e7f567.css",
+    "static/js/main.075f53dd.js"
+  ]
+}
