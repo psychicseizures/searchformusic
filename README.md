@@ -1,3 +1,6 @@
+The instructions for making this is app comes from Cooper Codes https://www.youtube.com/watch?v=1PWDxgqLmDA&t=135s.
+I made it to practise and to learn.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
