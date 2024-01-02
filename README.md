@@ -1,6 +1,8 @@
 The instructions for making this is app comes from Cooper Codes https://www.youtube.com/watch?v=1PWDxgqLmDA&t=135s.
 I made it to practise and to learn.
 
+I made the application with the Spotify API which can be found here https://developer.spotify.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
