@@ -4,8 +4,8 @@ import React, { useState, useEffect } from 'react';
 import { Container, FormGroup, TextField, Button, Grid, Card, CardContent, CardMedia, Typography, Dialog, DialogTitle, DialogContent, DialogActions, List, ListItem, ListItemText } from '@mui/material';
 import finger from "./image/backfinger1.png"
 
-const CLIENT_ID = process.env.REACT_APP_CLIENT_ID || "";
-const CLIENT_SECRET = process.env.REACT_APP_CLIENT_SECRET || "";
+const CLIENT_ID = process.env.CLIENT_ID || "";
+const CLIENT_SECRET = process.env.CLIENT_SECRET || "";
 
 function App() {
   const [searchInput, setSearchInput] = useState("");
